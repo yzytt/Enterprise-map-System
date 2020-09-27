@@ -1,0 +1,22 @@
+{
+	"name": "layout",
+	"children": [
+		{
+			"name": "xmxm",
+			"children": [
+				{
+					"name": "xmxm1",
+					"value": 12348
+				},
+				{
+					"name": "xmxm2",
+					"value": 870
+				},
+				{
+					"name": "xmxm3",
+					"value": 9191
+				}
+			]
+		}
+	]
+}
